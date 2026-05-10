@@ -1,5 +1,5 @@
 ## Smart Road
-Build a CRUD-based application in a short period of time
+Build a simple CRUD-based application
 
 ## Stack
 - Spring Boot
