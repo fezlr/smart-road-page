@@ -15,6 +15,6 @@ public class TransportPageController {
     public String transportPage(Model model) {
         var transports = transportRepository.findAll();
         model.addAttribute("transports", transports);
-        return "/transport";
+        return "transport";
     }
 }
