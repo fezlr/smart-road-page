@@ -8,4 +8,3 @@ Main aim: Build a CRUD-based application in under 6 hours. It was successfully c
 - Docker
 - Gradle
 - Thymeleaf
-- HTML, CSS, JS
